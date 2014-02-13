@@ -1,0 +1,2 @@
+[04-Feb-2013 01:33:47] PHP Fatal error:  Call to undefined function  get_option() in /home4/davidcob/public_html/wp-content/themes/paragon/framework/fonts/fonts.php on line 2
+[17-Jul-2013 07:43:37] PHP Fatal error:  Call to undefined function  get_option() in /home4/davidcob/public_html/wp-content/themes/paragon/framework/fonts/fonts.php on line 2
